@@ -3,30 +3,30 @@ VERSION="2.0.0"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDPLE5PDQGACXEOYOKILPAEIBSV5C3YVDFSHUAFHQ5SADENFSMBLDRJA",
-"GDM3QS4ZRZRTKD2PPBTSTOLNGO3DGYWONB47SW3JMDHWSIZL3MSTHOEW"
+"GCOL3ESLMV7ZMPZS6EGCZFWG5AUXEAMWQ7VPIXMQEG6PPMBOFWVZNBU6",
+"GAXPEMRHIPYX5GO6KNVXZQYSG7KAWQDBTQPYQMCZGZZUKDW4MAWA47NC"
 ]
 
 [DOCUMENTATION]
-ORG_NAME="XTZM"
+ORG_NAME="VTX"
 ORG_URL="https://stellarkortex.io/"
 ORG_LOGO="https://stellarmint.io/wp-content/uploads/2021/09/РёР·РѕР±СЂР°Р¶РµРЅРёРµ_2021-09-16_125243.png"
-ORG_DESCRIPTION="Kortex"
+ORG_DESCRIPTION="VTX"
 ORG_PHYSICAL_ADDRESS="Calle 55 No. 10, , Floors 7-8, 110221, Bogota D.C. Colombia"
 ORG_PHONE_NUMBER="+5713905053"
 ORG_OFFICIAL_EMAIL="kortextoken@gmail.com"
 
 [[CURRENCIES]]
-code="XTZM"
-issuer="GDPLE5PDQGACXEOYOKILPAEIBSV5C3YVDFSHUAFHQ5SADENFSMBLDRJA"
+code="VTX"
+issuer="GCOL3ESLMV7ZMPZS6EGCZFWG5AUXEAMWQ7VPIXMQEG6PPMBOFWVZNBU6"
 display_decimals=7
 fixed_number=10000000
 is_asset_anchored=false
-name="Kortex"
-desc="Kortex. Total supply only 50M."
+name="VTX"
+desc="VTX. Total supply only 50M."
 conditions="Total supply only 50M."
 image="https://stellarmint.io/wp-content/uploads/2021/09/РёР·РѕР±СЂР°Р¶РµРЅРёРµ_2021-09-16_125243.png"
 
-# XTZM (XTZM) Token was issued using the open and inclusive Stellar blockchain network.
+# VTX (VTX) Token was issued using the open and inclusive Stellar blockchain network.
 # Home Domain: kortex.stellarmint.io
-# XTZM Token
+# VTX Token
